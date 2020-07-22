@@ -1,0 +1,13 @@
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\bin\Debug\netcoreapp3.1\Lab4_Exponents.exe
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\bin\Debug\netcoreapp3.1\Lab4_Exponents.deps.json
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\bin\Debug\netcoreapp3.1\Lab4_Exponents.runtimeconfig.json
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\bin\Debug\netcoreapp3.1\Lab4_Exponents.runtimeconfig.dev.json
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\bin\Debug\netcoreapp3.1\Lab4_Exponents.dll
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\bin\Debug\netcoreapp3.1\Lab4_Exponents.pdb
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.csprojAssemblyReference.cache
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.AssemblyInfoInputs.cache
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.AssemblyInfo.cs
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.csproj.CoreCompileInputs.cache
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.dll
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.pdb
+C:\Users\Andoni\source\repos\Lab4_Exponents\Lab4_Exponents\obj\Debug\netcoreapp3.1\Lab4_Exponents.genruntimeconfig.cache
